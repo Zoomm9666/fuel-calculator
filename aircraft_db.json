@@ -1,0 +1,149 @@
+{
+  "Airbus": {
+    "A319": {
+      "name": "Airbus A319 CEO",
+      "fuel_burn_kgph": 2300,
+      "oew_kg": 41374,
+      "mzfw_kg": 58500,
+      "mtow_kg": 75500,
+      "mlw_kg": 62500,
+      "max_pax": 156,
+      "eng_ai_factor": 1.03,
+      "wing_ai_factor": 1.05,
+      "taxi_fuel_kg": 200,
+      "apu_fuel_kg": 60
+    },
+    "A320CFM": {
+      "name": "Airbus A320 CFM56",
+      "fuel_burn_kgph": 2400,
+      "oew_kg": 42600,
+      "mzfw_kg": 62500,
+      "mtow_kg": 77000,
+      "mlw_kg": 64500,
+      "max_pax": 180,
+      "eng_ai_factor": 1.03,
+      "wing_ai_factor": 1.05,
+      "taxi_fuel_kg": 200,
+      "apu_fuel_kg": 60
+    },
+    "A320IAE": {
+      "name": "Airbus A320 IAE",
+      "fuel_burn_kgph": 2450,
+      "oew_kg": 43000,
+      "mzfw_kg": 62500,
+      "mtow_kg": 77000,
+      "mlw_kg": 64500,
+      "max_pax": 180,
+      "eng_ai_factor": 1.03,
+      "wing_ai_factor": 1.05,
+      "taxi_fuel_kg": 200,
+      "apu_fuel_kg": 60
+    },
+    "A320NEO": {
+      "name": "Airbus A320 NEO",
+      "fuel_burn_kgph": 2150,
+      "oew_kg": 44300,
+      "mzfw_kg": 64300,
+      "mtow_kg": 79000,
+      "mlw_kg": 67400,
+      "max_pax": 186,
+      "eng_ai_factor": 1.03,
+      "wing_ai_factor": 1.05,
+      "taxi_fuel_kg": 200,
+      "apu_fuel_kg": 60
+    },
+    "A321CEO": {
+      "name": "Airbus A321 CEO",
+      "fuel_burn_kgph": 2700,
+      "oew_kg": 48500,
+      "mzfw_kg": 71500,
+      "mtow_kg": 89000,
+      "mlw_kg": 75500,
+      "max_pax": 220,
+      "eng_ai_factor": 1.03,
+      "wing_ai_factor": 1.05,
+      "taxi_fuel_kg": 250,
+      "apu_fuel_kg": 70
+    },
+    "A321NEO": {
+      "name": "Airbus A321 NEO",
+      "fuel_burn_kgph": 2350,
+      "oew_kg": 50100,
+      "mzfw_kg": 75600,
+      "mtow_kg": 97000,
+      "mlw_kg": 79200,
+      "max_pax": 236,
+      "eng_ai_factor": 1.03,
+      "wing_ai_factor": 1.05,
+      "taxi_fuel_kg": 250,
+      "apu_fuel_kg": 70
+    }
+  },
+  "Boeing": {
+    "B736": {
+      "name": "Boeing 737-600 NG",
+      "fuel_burn_kgph": 2250,
+      "oew_kg": 37104,
+      "mzfw_kg": 51482,
+      "mtow_kg": 65544,
+      "mlw_kg": 54657,
+      "max_pax": 132,
+      "eng_ai_factor": 1.02,
+      "wing_ai_factor": 1.02,
+      "taxi_fuel_kg": 150,
+      "apu_fuel_kg": 50
+    },
+    "B737": {
+      "name": "Boeing 737-700 NG",
+      "fuel_burn_kgph": 2400,
+      "oew_kg": 38147,
+      "mzfw_kg": 54657,
+      "mtow_kg": 70080,
+      "mlw_kg": 58060,
+      "max_pax": 149,
+      "eng_ai_factor": 1.02,
+      "wing_ai_factor": 1.02,
+      "taxi_fuel_kg": 200,
+      "apu_fuel_kg": 60
+    },
+    "B738": {
+      "name": "Boeing 737-800 NG",
+      "fuel_burn_kgph": 2520,
+      "oew_kg": 41413,
+      "mzfw_kg": 62731,
+      "mtow_kg": 79015,
+      "mlw_kg": 66361,
+      "max_pax": 189,
+      "eng_ai_factor": 1.02,
+      "wing_ai_factor": 1.02,
+      "taxi_fuel_kg": 200,
+      "apu_fuel_kg": 60
+    },
+    "B739": {
+      "name": "Boeing 737-900ER NG",
+      "fuel_burn_kgph": 2650,
+      "oew_kg": 44676,
+      "mzfw_kg": 67721,
+      "mtow_kg": 85139,
+      "mlw_kg": 71350,
+      "max_pax": 215,
+      "eng_ai_factor": 1.02,
+      "wing_ai_factor": 1.02,
+      "taxi_fuel_kg": 250,
+      "apu_fuel_kg": 60
+    },
+    "B38M": {
+      "name": "Boeing 737-8 MAX",
+      "fuel_burn_kgph": 2250,
+      "oew_kg": 45070,
+      "mzfw_kg": 65952,
+      "mtow_kg": 82190,
+      "mlw_kg": 69308,
+      "max_pax": 189,
+      "eng_ai_factor": 1.02,
+      "wing_ai_factor": 1.02,
+      "taxi_fuel_kg": 200,
+      "apu_fuel_kg": 60
+    }
+  }
+}
